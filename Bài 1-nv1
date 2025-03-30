@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang ="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>BÁO TƯỜNG ĐIỆN TỬ </title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+  	.red {color: red;}
+  </style>
+</head>
+<body>
+	<head>
+		<h1 class="red">Khoảnh khắc của thanh xuân</h1>
+		<h2>12A5 cùng những kỉ niệm quý giá</h2>
+	</head>
+	<main>
+		<section class="Giới Thiệu">
+			<h2>Giới Thiệu</h2>
+			<p>Thanh xuân là một vở kịch không có diễn tập trước, bạn cứ diễn mà chẳng quan tâm đến thứ tự lên sân khấu của bất kì ai </p>
+		</section>
+		<section class="Bài viết">
+			<h2>Bài Viết</h2>
+			<ul>
+				<li>
+					<a href="#">Bài viết 1</a>
+					<p>Thanh xuân là tay trong tay, ngồi trên một chuyến tàu không bao giờ quay trở lại. Thanh xuân là sống một cuộc đời mà mình muốn sống. Thanh xuân như một cuộn giấy vệ sinh, nhìn thì dày, vậy mà dùng tới dùng lui đã hết từ lúc nào không hay.</p>
+					<p>Tháng năm như nước chảy, thanh xuân không hối hận. Không có ai mãi mãi 18 tuổi, nhưng luôn có những con người 18 tuổi. Bầu trời của năm 18 tuổi là hoa nở, là trời xanh, là mây trắng, là những ánh mặt trời đan vào nhau, là tiếng cười, tiếng hò reo không ngớt. Thanh xuân, có những dịu dàng của mùa hè, cũng có những hăng hái của mùa hè. Có người so sánh, thanh xuân như một tia nắng buồn thương. Có lẽ là bởi thanh xuân như nước, dù mở ra hay nắm chặt, nó đều sẽ chảy xuống qua kẽ tay...</p>
+
+                    <p>Đứng ở giữa ngã tư đường mang tên Thanh Xuân, nhìn lại con đường trưởng thành của chính mình, con đường phía trước còn rất dài, có ánh nắng long lanh, có ánh trăng trêu người. Cuộc sống đã dành tặng chúng ta một món quà vô cùng quý giá, đó chính là thanh xuân. Một thanh xuân tràn đầy những năng lượng, chờ mong, khát khao, tò mò, đấu tranh, hy vọng và tin tưởng</p>
+                </li>
+                <li>
+                	<a href="#">Bài viết 2</a>
+                	<P>Thanh xuân rực rỡ, tươi đẹp nhất ở lứa tuổi vị thành niên, khi đó ta vừa đủ ngây ngô, vừa đủ táo bạo để dám nghĩ, dám làm. Tuổi 17, chúng ta cảm nhận được sự thay đổi của cả thể chất lẫn tinh thần, là lứa tuổi bắt đầu cho quãng thời gian thanh xuân. Tuổi 17 ta nhận ra đúng sai, ta sống vô tư như những đứa trẻ mới lớn tràn đầy yêu thương</P>
+                	<p>Tuổi 18, tuổi đẹp nhất của đời người và đẹp nhất của thời thanh xuân. Chúng ta dần bỏ đi những suy nghĩ bồng bột, xen vào đó chút tương tư, lo lắng cho tương lai. Để rồi bước vào quãng thời gian đại học, những cô cậu 19, 20, 21 chuẩn bị tinh thần ra trường, vươn lên tự lập. Những năm tháng cuối của tuổi thanh xuân cũng chính là thời khắc ta nuối tiếc nhiều nhất, tiếc vì còn những điều dang dở chưa làm</p>
+                </li>
+			</ul>
+		</section>
+		<section class="góc ảnh">
+			<h2>Góc ảnh</h2>
+			<ul>
+				<li>
+					<img src="C:\Users\Admin\Pictures\ảnh 2.jpg"alt="Khoảnh Khắc " width="1000" height="600">
+					<h1 class="red"><strong>Trong kẽ hở của thời gian và hiện thực, tuổi xuân cũng như sắc đẹp, mỏng manh như trang giấy bị gió hong khô</strong></h1>
+				</li>
+				<li>
+					<img src="C:\Users\Admin\Pictures\ảnh 4.jpg"alt="Khoanh khắc" width="1000" height="600">
+					<img src="C:\Users\Admin\Pictures\ảnh 7.jpg"alt="Khoanh khắc" width="1000" height="600">
+					<img src="C:\Users\Admin\Pictures\ảnh 9.jpg"alt="Khoanh khắc" width="1000" height="600">
+					<img src="C:\Users\Admin\Pictures\ảnh 6.jpg"alt="Khoanh khắc" width="1000" height="600">
+					<img src="C:\Users\Admin\Pictures\ảnh 13.jpg"alt="Khoanh khắc" width="1000" height="600">
+					<h1 class="red"><strong>Thanh xuân là uống đến đổ gục, hát đến khàn họng, cười đến rơi lệ, khóc đến bò nhoài</strong></h1>
+				</li>
+			</ul>
+		</section>
+		<section class="Góc âm nhạc">
+			<h2>Góc âm nhạc</h2>
+			<ul>
+				<li>
+					<audio src="C:\Users\Admin\Videos\bài hát 1.mp3" controls></audio>
+					
+					<p>Nếu nhìn cuộc đời như một hành trình dài, thì tuổi thanh xuân chính là đoạn đường đẹp nhất và đầy ắp những trải nghiệm đặc biệt. Đó là khoảng thời gian từ mười sáu đến hai mươi lăm, nơi mà trái tim cháy bỏng của chúng ta đựng đầy cảm xúc, nhiệt huyết và sự nông nổi. Đối với mỗi người, thanh xuân đều mang theo những ký ức khác nhau, có thể là những năm tháng học trò vui vẻ, những nỗ lực hết mình để theo đuổi ước mơ, hoặc chỉ đơn giản là những khoảnh khắc hồn nhiên dưới bóng phượng đỏ thắm của một góc trời.</p>
+					<p>Mỗi ước mơ được nuôi dưỡng bởi niềm đam mê và sự nỗ lực không ngừng.</p>
+
+          <p>Hành trình của học sinh lớp 12 đầy thử thách nhưng cũng tràn ngập cơ hội để trưởng thành và học hỏi.</p>
+
+          <p>Đó là lúc để không ngừng nỗ lực, dũng cảm đối mặt với khó khăn, và luôn giữ vững niềm tin vào bản thân.</p>
+					
+				</li>
+			</ul>
+		</section>
+		<section class="Góc video">
+			<h2>Góc video</h2>
+			<div class="video">
+            <video width="400" controls>
+                <source src="C:\Users\Admin\Downloads\ơ.mp4"type="video/mp4">
+            </video>
+        </div>
+        <div class="video">
+            <video width="400" controls>
+               <source src="C:\Users\Admin\Downloads\HOA.mp4"type="video/mp4">
+            </video>
+        </div>
+		</section>
+		<section class="Góc Bình Luận">
+			<h2>Góc Bình Luận</h2>
+			<label>
+				<textarea name="txtComment" rows="8" cols="40"></textarea>
+			</label>
+			<input type="submit" name="cmd"value="Gửi">
+		</section>
+	</main>
+	<footer>
+		<p>Thông tin </p>
+		<ul>
+			<li><p>Tổ 1</p></li>
+			<li><p>Gồm:8 thành viên-Chi-L.Ngọc-Huyền-H.Hiền-K.Ly-Quyền-Nam và Đại</p></li>
+			<li>
+				<p>Chi và Ngọc:tìm nội dung</p>
+			    <p>Huyền và H.Hiền:tìm ảnh</p>
+			    <p>Quyền và K.Ly:tạo bài</p>
+			    <p>Nam và Đại:tìm âm thanh</p>
+			</li>
+		</ul>
+		<p>Địa chỉ email:luongquyen27607@gmail.com</p>
+		<p>Ngày cập nhật:30/3/2025</p>
+	</footer>
+</body>
+</html>
